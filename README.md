@@ -1,1 +1,1 @@
-# Age_Prediction_CT_images
+# Predicting age from CT scans
